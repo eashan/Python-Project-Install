@@ -2,7 +2,8 @@
 #Takes 2 arguments
 sudo apt-get install git
 sudo apt-get install Python-pip
-sudo apt-get install Python-dev
+sudo apt install libpq-dev python-dev
+
 
 sudo pip install virtualenv
 
