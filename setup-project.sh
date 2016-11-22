@@ -3,6 +3,8 @@
 sudo apt-get install git
 sudo apt-get install Python-pip
 sudo apt-get install Python-dev
+#psycopg2 install req
+sudo apt-get install libpq-dev
 
 sudo pip install virtualenv
 
