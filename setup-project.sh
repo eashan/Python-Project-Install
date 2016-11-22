@@ -2,9 +2,12 @@
 #Takes 2 arguments
 sudo apt-get install git
 sudo apt-get install Python-pip
-sudo apt-get install Python-dev
-#psycopg2 install req
-sudo apt-get install libpq-dev
+sudo apt install libpq-dev python-dev
+
+#Insall Sublime Text
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-get update
+sudo apt-get install sublime-text-installer
 
 sudo pip install virtualenv
 
